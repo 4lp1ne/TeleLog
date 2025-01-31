@@ -1,5 +1,7 @@
 # TeleLog
 
+![ezgif-7ea2a171d9473](https://github.com/user-attachments/assets/1e04d75e-ace8-4d7d-bbe3-88fcaa7e5d97)
+
 ## Keylogger Obfuscation and Compilation Tool
 
 This repository contains a Python-based tool that generates an obfuscated keylogger script and compiles it into an executable file. The tool is designed to work in two steps:
