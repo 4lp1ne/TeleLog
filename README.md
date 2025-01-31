@@ -97,7 +97,7 @@ Before running the scripts, ensure you have the following installed:
 After running both scripts, your folder structure will look like this:
 
 ```
-your-repo-name/
+TeleLog/
 ├── first.py
 ├── requirements.txt
 ├── secret.key
@@ -134,3 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 For any issues or questions, please open an issue on the GitHub repository.
+ 
