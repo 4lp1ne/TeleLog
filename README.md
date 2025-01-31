@@ -7,7 +7,7 @@ This repository contains a Python-based tool that generates an obfuscated keylog
 1. **First Script (`first.py`)**: Generates an obfuscated keylogger script (`rto.py`) after taking user input for the Telegram Bot API key and Chat ID.
 2. **Second Script (`second.py`)**: Fixes the script structure, re-obfuscates it, and compiles it into an executable file (`rtc.exe`).
 
-The final executable is placed in a folder called `minified`.
+The final executable is placed in a folder called `minified\dist`.
 
 ---
 
