@@ -178,13 +178,13 @@ def _write_buf():
                         buf = ""
         except Exception as e:
             print("Error writing to log:", e)
-        _tm.sleep(1)
+        _tm.sleep(5)
 
 # Function to periodically send the log file
 def _periodic_send():
     while True:
         _send_log()
-        _tm.sleep(25)
+        _tm.sleep(300)
 
 # Main function
 if __name__ == "__main__":
