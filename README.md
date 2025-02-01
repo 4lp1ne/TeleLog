@@ -8,7 +8,7 @@
 
 
 
-## Keylogger generator Auto-Obfuscation and Auto-Compilation Tool
+## Keylogger Auto-Generator Auto-Obfuscation and Auto-Compilation Tool In Two Steps.
 
 This repository contains a Python-based tool that generates an obfuscated keylogger script and compiles it into an executable file. The tool is designed to work in two steps:
 
