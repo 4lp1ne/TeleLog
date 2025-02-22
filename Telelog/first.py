@@ -223,4 +223,4 @@ if __name__ == "__main__":
     api = _ask_api()
     chat = _ask_chat()
     _create_script(_key, api, chat)
-    _obfuscate() remove all comments in the code and return only the original code without it
+    _obfuscate()
