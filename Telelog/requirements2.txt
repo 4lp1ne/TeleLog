@@ -1,3 +1,6 @@
+# full requirements list freeze if needed 
+# use python 3.9 in venv
+
 altgraph==0.17.4
 bottle==0.13.2
 bottle-websocket==0.2.9
