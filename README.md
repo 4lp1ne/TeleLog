@@ -1,12 +1,5 @@
 # TeleLog
 
-![ezgif-754de35099187](https://github.com/user-attachments/assets/3f162470-1fc4-4681-900e-d180d4b7e4f4)
-
-
-
-![ezgif-76b73f93d96da](https://github.com/user-attachments/assets/c74e2073-4b0a-4cb2-9480-47ae019a9aec)
-
-
 
 ## Keylogger Auto-generate, Auto-Obfuscate, Auto-Compiler.
 
