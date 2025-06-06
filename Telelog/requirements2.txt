@@ -13,7 +13,7 @@ distlib==0.3.9
 Eel==0.18.1
 filelock==3.17.0
 future==1.0.0
-gevent==24.11.1
+gevent==25.4.1
 gevent-websocket==0.10.1
 greenlet==3.1.1
 idna==3.10
@@ -39,7 +39,7 @@ pyparsing==3.2.1
 pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 requests==2.32.3
-setuptools==75.8.0
+setuptools==78.1.1
 sh==2.2.1
 shellescape==3.8.1
 six==1.17.0
@@ -55,3 +55,18 @@ os-sys==2.1.4
 time==0.3.5
 requests==2.32.3
 pyminifier==2.1
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+django>=5.0.14 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+nltk>=3.8.2 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+selenium>=4.15.1 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
