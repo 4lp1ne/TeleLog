@@ -70,3 +70,4 @@ selenium>=4.15.1 # not directly required, pinned by Snyk to avoid a vulnerabilit
 sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
 tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
